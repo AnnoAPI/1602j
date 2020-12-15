@@ -6,4 +6,4 @@ There are also Parsers for the Anno COD-Files, WAV-Files, SMK-Files and BSH-File
 
 ## Project Page ##
 
-The projects origin is hosted on another Page. Go (here)[https://gitlab.com/annoapi/1602j] to see the entiere Project. 
+The projects origin is hosted on another Page. Go [here](https://gitlab.com/annoapi/1602j) to see the entiere Project. 
